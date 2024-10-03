@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/6275e502-56b7-433f-905c-358b14f7ad2b)
+
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Raut</h1>
 <h3 align="center">A passionate Dot Net Full Stack Developer</h3>
